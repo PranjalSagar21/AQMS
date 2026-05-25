@@ -63,15 +63,20 @@ Ensure the following prerequisites are completed before setup:
 
 
 
-||| Front Percpective ||| ![WhatsApp Image 2025-06-25 at 3 26 37 PM](https://github.com/user-attachments/assets/bebe23e6-71a9-4e11-be28-7e3b044c0930)
+||| Front Percpective ||| 
+![WhatsApp Image 2025-06-25 at 3 26 37 PM](https://github.com/user-attachments/assets/bebe23e6-71a9-4e11-be28-7e3b044c0930)
 
-||| Back Percpective ||| ![WhatsApp Image 2025-06-25 at 3 26 38 PM](https://github.com/user-attachments/assets/c48af846-fdea-4b4c-851b-f4d3773a039f)
+||| Back Percpective ||| 
+![WhatsApp Image 2025-06-25 at 3 26 38 PM](https://github.com/user-attachments/assets/c48af846-fdea-4b4c-851b-f4d3773a039f)
 
-||| PCB Layout ||| ![Screenshot 2025-06-25 161154](https://github.com/user-attachments/assets/7347e775-a755-4eec-b577-11e33b4acf48)
+||| PCB Layout ||| 
+![Screenshot 2025-06-25 161154](https://github.com/user-attachments/assets/7347e775-a755-4eec-b577-11e33b4acf48)
 
-||| Schematic ||| ![Screenshot 2025-06-25 162458](https://github.com/user-attachments/assets/460dbff1-d09d-496c-bf3d-fa7bc3538d5a)
+||| Schematic ||| 
+![Screenshot 2025-06-25 162458](https://github.com/user-attachments/assets/460dbff1-d09d-496c-bf3d-fa7bc3538d5a)
 
-||| 3D Preview |||![image](https://github.com/user-attachments/assets/01ba273b-7902-4d96-9812-8553479f7a00)
+||| 3D Preview |||
+![image](https://github.com/user-attachments/assets/01ba273b-7902-4d96-9812-8553479f7a00)
 
 ## ☁️ ThingSpeak Dashboard
 
